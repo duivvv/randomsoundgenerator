@@ -15,7 +15,7 @@ NODE_ENV=development
 npm install
 bower install
 npm start
-``
+```
 
 watch the magic at *http://localhost:3000*
 
