@@ -1,0 +1,14 @@
+{
+	"settings": [
+		{
+			"name": "drums",
+			"moving": 60,
+			"set": "drums"
+		},
+		{
+			"name": "snippets",
+			"moving": 20,
+			"set": "snippets"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"drums": [
+		{
+			"name": "SD",
+			"file": "assets/sound/sd.wav"
+		},
+		{
+			"name": "HH",
+			"file": "assets/sound/hh.wav"
+		},
+		{
+			"name": "BD",
+			"file": "assets/sound/bd.wav"
+		}
+	]
+}
